@@ -1,1 +1,37 @@
 # gitignore of the Epitech project
+# Ignore the marketplace content as the player has to add them to the project beforehand
+# Asset Pack https://www.unrealengine.com/marketplace/en-US/product/material-function-collection
+Content/MaterialFunctionCollection/
+Content/MaterialFunctionCollection.zip
+# instances of materials in :
+# Content/
+#   Vaporwave Assets/
+#       Vaporcube->edges (M_Emissive)
+#       Groovebox->edges (M_Emissive)
+#       Materials/
+#           M_Fresnel_Vaporcube
+#           M_GrooveBox_Pulse
+#           M_MFC_Scanline
+#######
+# reference in :
+# Content/
+#   Vaporwave Assets/
+#       Vaporcube->edges (M_Emissive)
+#       Groovebox->edges (M_Emissive)
+
+
+# Asset Pack https://www.unrealengine.com/marketplace/en-US/product/a36bac8b05004e999dd4b1d332501f49
+Content/FXVarietyPack/
+# instances of particles in :
+# Content/
+#   Vaporwave Assets/
+#       Particles/
+#           P_my_ky_hit1 (FXVarietyPack/Particles/P_ky_hit1)
+
+
+#/Build
+Saved/
+DerivedDataCache/
+Intermediate/
+Binaries/
+Saved/Logs/GrooveEscape.log
