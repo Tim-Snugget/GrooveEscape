@@ -38,3 +38,5 @@ Binaries/
 Saved/Autosaves
 Saved/Logs
 Saved/Logs/GrooveEscape.log
+Content/__ExternalActors__
+*.bin
