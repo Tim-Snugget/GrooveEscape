@@ -33,6 +33,10 @@ Content/FXVarietyPack/
 Saved/
 DerivedDataCache/
 Intermediate/
+Intermediate\
 Binaries/
+Saved/Autosaves
 Saved/Logs
 Saved/Logs/GrooveEscape.log
+# Content/__ExternalActors__ # useful for multiple devs to create a map + if you use world partition which is our case
+*.bin
