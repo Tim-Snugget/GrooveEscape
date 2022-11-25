@@ -28,6 +28,14 @@ Content/FXVarietyPack/
 #       Particles/
 #           P_my_ky_hit1 (FXVarietyPack/Particles/P_ky_hit1)
 
+Content/SCK_Casual01
+SCK_Casual01.png
+###### BE ADVISED ! THIS IS NOT THE VANILLA PACKAGE AS I HAD TO CUSTOMIZE MATERIALS TO INTEGRATE THE CHARACTER_APPEARANCE_DISSOLVE ASSETS AND MATERIAL FUNCTIONS INTO OUR PLAYER'S MATERIALS
+Content/CUSTOM_MATERIALS_SCK_Casual01.zip
+
+Content/Character_Appearance_Dissolve
+Content/Character_Appearance_Dissolve.zip
+# used in the BP_ThirdPersonCharacter Material to dissolve/appear
 
 #/Build
 Saved/
