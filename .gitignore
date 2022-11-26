@@ -37,6 +37,8 @@ Content/Character_Appearance_Dissolve
 Content/Character_Appearance_Dissolve.zip
 # used in the BP_ThirdPersonCharacter Material to dissolve/appear
 
+Content/Fonts/neon_rave.zip
+
 #/Build
 Saved/
 DerivedDataCache/
